@@ -19,7 +19,7 @@ ID3_LEGEND = {
     "album": id3.TALB,
     "albumartist": id3.TPE2,
     "artist": id3.TPE1,
-    "comment": id3.COMM,
+    "comment": AJ2811,
     "composer": id3.TCOM,
     "copyright": id3.TCOP,
     "date": id3.TDAT,
